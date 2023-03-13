@@ -35,6 +35,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SoumyaAdhya007&show_icons=true&locale=en" alt="SoumyaAdhya007" /></p>
 <br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SoumyaAdhya007&" alt="SoumyaAdhya007" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SoumyaAdhya007" alt="SoumyaAdhya007" /></p>
 <br><br>
 <!-- <p><a href="https://www.buymeacoffee.com/SitansuMandal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SitansuMandal" /></a></p> -->
