@@ -2,10 +2,10 @@
   <img src="https://miro.medium.com/proxy/1*OF0xEMkWBv-69zvmNs6RDQ.gif">
 </div>
 <!-- <h1 align="center">Hi 👋, I'm Soumya Adhya</h1> -->
- <p align="center" color:"red">
-     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-          <img src="https://readme-typing-svg.demolab.com/?lines=Hello! I am Soumya Adhya 🏽; I am a Full-Stack%20Web%20Developer 🏻‍💻; Interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
-      </p>
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hii+👋+from+Soumya!;Aspiring+Full+Stack+Web+Developer+From+India&font=Fira%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p> 
 <div align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 </div>
