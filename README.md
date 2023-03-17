@@ -53,7 +53,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoumyaAdhya007&show_icons=true&locale=en&layout=compact" width=60% alt="SoumyaAdhya007" />
  </p>
  <p align = "center">
- <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" width=60%/>
+ <img src="https://streak-stats.demolab.com/?user=SoumyaAdhya007&theme=dark" width=60%/>
 </p>
 <!--  <p align = "center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrvn12&theme=github_dark" width=60%/>
