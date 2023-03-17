@@ -38,3 +38,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=SoumyaAdhya007" /></p>
 <br><br>
 <!-- <p><a href="https://www.buymeacoffee.com/SitansuMandal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SitansuMandal" /></a></p> -->
+<p align="center">
+    <a href="https://github.com/Amanmandal-M"><span>
+        <img align="center"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoumyaAdhya007&theme=github_dark" width="100%" />
+      </span></a>
+  </p>
